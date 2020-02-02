@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StephanyCamacho/Profile-Generator-v2.git"
+    "url": "git+git@github.com:rrdavis22/profile-generator-v2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StephanyCamacho/Profile-Generator-v2/issues"
+    "url": "https://git@github.com:rrdavis22/profile-generator-v2/issues"
   },
-  "homepage": "https://github.com/StephanyCamacho/Profile-Generator-v2#readme",
+  "homepage": "git@github.com:rrdavis22/profile-generator-v2#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "electron": "^5.0.3",
