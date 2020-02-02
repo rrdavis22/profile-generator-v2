@@ -1,1 +1,2 @@
-# profile-generator-v2
+# Profile-Generator
+Node.js and ES6+ Homework
